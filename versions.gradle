@@ -17,9 +17,9 @@ def versions = [:]
  */
 
 // gradle_plugin
-versions.gradle_plugin = "3.0.1"
+versions.gradle_plugin = "7.0.0"
 // gradle_plugin
-versions.AndResGuard_gradle_plugin = "1.2.13"
+versions.AndResGuard_gradle_plugin = "1.2.20"
 // test
 versions.junit = "4.12"
 versions.test_runner = "1.0.1"
